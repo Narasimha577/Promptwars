@@ -1,0 +1,22 @@
+{
+  "name": "votepath-election-assistant",
+  "version": "1.0.0",
+  "description": "Interactive election process education assistant for PromptWars.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "elections",
+    "civic-education",
+    "gemini",
+    "cloud-run",
+    "promptwars"
+  ],
+  "author": "Kudeti Naga Sai Narasimha Kumar",
+  "license": "MIT"
+}
